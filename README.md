@@ -25,11 +25,11 @@ https://chromedriver.chromium.org/downloads
 
 The cleaning process of the project consisted of
 - Seperating the 'Date / Time' column into its very own columns
-- Reformatting the 'Date' and 'Time' columsn
-- Clearing rows with unusual
+- Reformatting the 'Date' and 'Time' columns
+- Clearing rows with unusual entries (e.g. Dates with year of 2070)
 - Clearing all rows with any NaN present
 - Dropping the 'Posted' column
-- Regrouping values with differnet capitalizations (e.g. 'lights' and 'Lights')
+- Regrouping values with different capitalizations (e.g. 'lights' and 'Lights')
 
 # Analysis
 
