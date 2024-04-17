@@ -37,7 +37,7 @@ The cleaning process of the project consisted of
 
 ![years](https://user-images.githubusercontent.com/66498197/147865870-9ef77dbb-6039-4cc0-b66d-045244b9825d.png)
 
-# This most occurred sighting by city was Pheonix with 566 sightings, about 0.65 % of the whole dataset
+# The most occurred sighting by city was Pheonix with 566 sightings, about 0.65 % of the whole dataset
 
 ![city](https://user-images.githubusercontent.com/66498197/147865880-446857b0-af2d-46b1-bc58-827911250d23.png)
 
